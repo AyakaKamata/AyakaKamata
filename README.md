@@ -1,4 +1,4 @@
-<img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=AyakaKamata&count_private=true&show_icons=true"> <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyakaKamata&layout=compact">
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=AyakaKamata&count_private=true&show_icons=true"> <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyakaKamata&layout=compact">
 <!--
 **AyakaKamata/AyakaKamata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
