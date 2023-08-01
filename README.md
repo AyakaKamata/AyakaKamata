@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![](https://github-readme-stats.vercel.app/api?username=AyakaKamata&count_private=true&show_icons=true&theme=moltack)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyakaKamata&layout=donut&theme=moltack)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyakaKamata&theme=moltack)
 <!--
 **AyakaKamata/AyakaKamata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
